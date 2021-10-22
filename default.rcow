@@ -1,0 +1,13 @@
+Default cow for rust-cowsay
+
+based on default.cow by Tony Monroe
+
+---<COW-BLOCK>---
+ ${thinking}
+   \\
+    ^__^
+    (OO)\\_______
+    (__)\\       )\\/\\
+     ${tonge}  ||----w |
+         ||     ||
+--->COW-BLOCK<---
