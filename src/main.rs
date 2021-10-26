@@ -31,7 +31,7 @@ fn generate_buble(pos: i32, text: &str) -> String {
     
     let tw = match terminal_w {
         Some(w) => min(text.len() + 4,w as usize - padding.len() - 1),
-        None => text.len()
+        None => text.len()+4
     };
     
     let mut buffer = String::new();
